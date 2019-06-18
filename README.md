@@ -16,9 +16,6 @@ By the end of this Learning Path, you’ll have the skills required to identify 
 * Customize Metasploit modules to modify existing exploits
 * Explore the steps involved in post-exploitation on Android and mobile platforms
 
-## Instructions and Navigations
-* All of the code is organized into folders. Chapter17, Chapter19, Chapter20, Chapter21, Chapter22 does not contain code files.
-
 ### Hardware Requirements
 For an optimal student experience, we recommend the following hardware configuration:
 * **Processor**: Intel Core i5 or equivalent
