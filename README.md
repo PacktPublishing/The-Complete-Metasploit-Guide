@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Course for only $5 on PacktPub.com](https://www.packtpub.com/product/the-complete-metasploit-guide/9781838822477)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # The Complete Metasploit Guide
 Most businesses today are driven by their IT infrastructure, and the tiniest crack in this IT network can bring down the entire business. Metasploit is a pentesting network that can validate your system by performing elaborate penetration tests using the Metasploit
 Framework to secure your infrastructure.
